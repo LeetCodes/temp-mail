@@ -1,11 +1,11 @@
 {
   "name": "temp-mail",
-  "version": "2.1.0",
-  "description": "Node.js API wrapper for temp-mail.ru",
+  "version": "3.0",
+  "description": "Node.js API wrapper for temp-mail.ru and temp-mail.org",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:xomyaq/tempmail.git"
+    "url": "git@github.com:LeetCodes/tempmail.git"
   },
   "devDependencies": {
     "eslint": "^3.2.2",
@@ -26,5 +26,11 @@
     "email": "ilnur.khalilov@gmail.com",
     "url": "ilnurkhalilov.ru"
   },
+  "maintainers": [
+  {
+	"email": "michael@leetcodes.com",
+	"name": "LeetCodes"
+  }
+],
   "license": "MIT"
 }
